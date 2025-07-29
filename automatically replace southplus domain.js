@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         south-plus域名自动替换 (v2.0)
-// @namespace    https://github.com/yourname
+// @namespace    https://github.com/qgdyyg/automatically-replace-southplus-domain
 // @version      2.0
 // @description  自动替换域名并支持自定义替换规则
 // @author       qgdyyg
