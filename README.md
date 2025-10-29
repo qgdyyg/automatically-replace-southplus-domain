@@ -1,4 +1,4 @@
-因为部分：<a href="south-plus.net">南+ South Plus</a>的子域名可以直连，所以用qwen写了这个脚本
+因为部分[南+ South Plus](https://south-plus.net "南+ South Plus")的子域名可以直连，所以用qwen写了这个脚本
 
 自动将south-plus.net等域名自动替换为bbs.imoutolove.me，可自定义替换后的域名和被替换的域名。
 
